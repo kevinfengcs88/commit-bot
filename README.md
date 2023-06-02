@@ -97,3 +97,5 @@ crontab -e
 > NOTE:
 > <br>Make sure you save your changes
 > <br>on your way out!
+
+6. Detach the fork with [GitHub's virtual assistant](https://support.github.com/request/fork) so that commits become public contributions
